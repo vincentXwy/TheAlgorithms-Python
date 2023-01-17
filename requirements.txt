@@ -1,6 +1,6 @@
 beautifulsoup4
 black
-fake_useragent
+fake-useragent
 flake8
 matplotlib
 mypy
